@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jkantihub.github.io</title>
+    <link>https://jkantihub.github.io/</link>
+    <description>Recent content on jkantihub.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jkantihub.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jkantihub.github.io/posts/opt-out-is-default/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jkantihub.github.io/posts/opt-out-is-default/</guid>
+      <description>When opt-in became default and made you into a product. The recent events on the DO community and the October Hack Fest has garnered enough attention of the community.The idea behind the fest looks good but the execution maybe not.
+In this age of instant gratification and power hungry tools , it is imperative that we consider the consequences of our actions. It was around 2016 and in one of the geek conferences in India ,I heard about the power of the developer and the decisions he makes.</description>
+    </item>
+    
+  </channel>
+</rss>
