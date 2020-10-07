@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+  <title>Using staticports.ini when installing Oracle Application Server</title>
+  <link href="http://jkantihub.github.io/css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="http://jkantihub.github.io/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/styles/default.min.css">
+  <style type="text/css">
+  
+    footer.page-footer{background-image: url(http://jkantihub.github.io/images/default.png);}
+  
+  </style>
+</head>
+<body>
+  <ul id="slide-out" class="side-nav">
+    <li><a href="http://jkantihub.github.io"><i class="mdi-action-home left"></i>Home<i class="mdi-hardware-keyboard-arrow-right right"></i></a></li>
+    <li><a href="http://jkantihub.github.io/categories"><i class="mdi-action-perm-media left"></i>Categories<i class="mdi-hardware-keyboard-arrow-right right"></i></a></li>
+    <li><a href="http://jkantihub.github.io/tags"><i class="mdi-action-loyalty left"></i>Tags<i class="mdi-hardware-keyboard-arrow-right right"></i></a></li>
+  </ul>
+  <div id="index-banner" class="parallax-container">
+  <a data-activates="slide-out" class="btn-floating button-collapse" style="top: 5px; left: 5px;"><i class="mdi-navigation-menu"></i></a>
+    <div class="section no-pad-bot">
+      <div class="container">
+        
+        <h1 class="header center teal-text text-lighten-2">Kanti Jadia</h1>
+        <div class="row center">
+          <h5 class="header col s12 light"></h5>
+        </div>
+        <div class="row center">
+        
+        
+        
+        
+        
+          <a href="http://jkantihub.github.io/index.xml"><img src="http://jkantihub.github.io/images/feed-dreamstale27.png"></a>
+        </div>
+      </div>
+    </div>
+    <div class="parallax">
+    
+      <img src="http://jkantihub.github.io/images/default.png">
+    
+    </div>
+  </div>
+
+
+
+<div class="container">
+  <div class="section">
+
+    <div class="row">
+      <div class="col s12">
+        <div class="card-panel">
+          <h4>Using staticports.ini when installing Oracle Application Server</h4>
+          <p>
+          
+            
+              <a href="http://jkantihub.github.io/categories/oracle/">Oracle</a>
+            
+           
+          </p>
+          <p><p>While installing Oracle application server for a number of reasons you would want that you can control the ports configuration.
+The best way to do this on a new install is to use <strong>staticports.ini</strong> file to specify the ports.</p>
+
+<p>A sample staticports.ini is shown below.</p>
+
+<blockquote>
+## staticports.ini - default
+
+# J2EE and HTTP Server
+Oracle HTTP Server port = 7777
+Oracle HTTP Server Listen port = 7777
+Oracle HTTP Server SSL port = 4443
+Oracle HTTP Server Listen (SSL) port = 4443
+Oracle HTTP Server Diagnostic port = 7200
+Java Object Cache port = 7000
+DCM Discovery port = 7100
+Oracle Notification Server Request port = 6003
+Oracle Notification Server Local port = 6101
+Oracle Notification Server Remote port = 6200
+Application Server Control port = 18100
+Application Server Control RMI port = 18140
+Oracle Management Agent port = 18120
+Log Loader port = 44000
+ASG port = 7890
+
+# Infrastructure
+Oracle Internet Directory port = 1389
+Oracle Internet Directory (SSL) port = 1636
+
+Enterprise Manager Console HTTP Port (orcl) = 5500
+Enterprise Manager Agent Port (orcl) = 1830
+
+</blockquote>
+
+<p>Feel free to post comments with your feedback.</p>
+</p>
+          <p>26 Apr 2008
+            
+          </p>
+          
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col s3 m1">
+      
+        <a class="btn-floating btn-large waves-effect waves-light" href="http://jkantihub.github.io/pointing-the-oracle-inventory-to-proper-oracle_home-after-cloning/"><i class="mdi-navigation-arrow-back"></i></a>
+      
+      </div>
+      <div class="col s6 m10 center">&nbsp</div>
+      <div class="col s3 m1">
+      
+        <a class="btn-floating btn-large waves-effect waves-light" href="http://jkantihub.github.io/the-wave-of-openid/"><i class="mdi-navigation-arrow-forward"></i></a>
+      
+      </div>
+    </div>
+
+  </div>
+</div>
+
+  <footer class="page-footer">
+    <div class="footer-copyright">
+      <div class="container">
+      
+      <div class="right">Design <a class="grey-text text-lighten-4" href="http://pdevty.github.io/blog/">pdevty</a></div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+  <script src="http://jkantihub.github.io/js/materialize.min.js"></script>
+  <script src="http://jkantihub.github.io/js/init.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  
+
+  </body>
+</html>
+

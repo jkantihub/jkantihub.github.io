@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on Kanti Jadia</title>
+    <link>http://jkantihub.github.io/tags/wordpress/</link>
+    <description>Recent content in Wordpress on Kanti Jadia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Oct 2010 21:16:37 +0000</lastBuildDate>
+    <atom:link href="http://jkantihub.github.io/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wordpress on Android</title>
+      <link>http://jkantihub.github.io/wordpress-on-android/</link>
+      <pubDate>Thu, 14 Oct 2010 21:16:37 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/wordpress-on-android/</guid>
+      <description>&lt;p&gt;With the new release of wordpress I finally took the plunge.The application is great and very responsive.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

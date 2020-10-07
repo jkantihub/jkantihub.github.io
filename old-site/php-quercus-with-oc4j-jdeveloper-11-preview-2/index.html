@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+  <title>PHP Quercus with OC4J ( JDeveloper 11 preview )</title>
+  <link href="http://jkantihub.github.io/css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="http://jkantihub.github.io/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/styles/default.min.css">
+  <style type="text/css">
+  
+    footer.page-footer{background-image: url(http://jkantihub.github.io/images/default.png);}
+  
+  </style>
+</head>
+<body>
+  <ul id="slide-out" class="side-nav">
+    <li><a href="http://jkantihub.github.io"><i class="mdi-action-home left"></i>Home<i class="mdi-hardware-keyboard-arrow-right right"></i></a></li>
+    <li><a href="http://jkantihub.github.io/categories"><i class="mdi-action-perm-media left"></i>Categories<i class="mdi-hardware-keyboard-arrow-right right"></i></a></li>
+    <li><a href="http://jkantihub.github.io/tags"><i class="mdi-action-loyalty left"></i>Tags<i class="mdi-hardware-keyboard-arrow-right right"></i></a></li>
+  </ul>
+  <div id="index-banner" class="parallax-container">
+  <a data-activates="slide-out" class="btn-floating button-collapse" style="top: 5px; left: 5px;"><i class="mdi-navigation-menu"></i></a>
+    <div class="section no-pad-bot">
+      <div class="container">
+        
+        <h1 class="header center teal-text text-lighten-2">Kanti Jadia</h1>
+        <div class="row center">
+          <h5 class="header col s12 light"></h5>
+        </div>
+        <div class="row center">
+        
+        
+        
+        
+        
+          <a href="http://jkantihub.github.io/index.xml"><img src="http://jkantihub.github.io/images/feed-dreamstale27.png"></a>
+        </div>
+      </div>
+    </div>
+    <div class="parallax">
+    
+      <img src="http://jkantihub.github.io/images/default.png">
+    
+    </div>
+  </div>
+
+
+
+<div class="container">
+  <div class="section">
+
+    <div class="row">
+      <div class="col s12">
+        <div class="card-panel">
+          <h4>PHP Quercus with OC4J ( JDeveloper 11 preview )</h4>
+          <p>
+          
+            
+              <a href="http://jkantihub.github.io/categories/general/">General</a>
+            
+           
+          </p>
+          <p><p>PHP has eveloved to be a mature web scripting language.<br />
+Had used PHP in my earlier incarnation :) , for those who know.</p>
+
+<p>Recently i was looking at some blogs and heard that running php on java is picking up some interest.<br />
+The Quercus team at <a href="http://quercus.caucho.com/">http://quercus.caucho.com/</a> has really done some interesting stuff.</p>
+
+<p>Now what i wanted to do was to see if its possible to run Quercus on Jdev.<br />
+I downloaded the latest jdev preview from <a href="http://www.oracle.com/technology/products/jdev/index.html">http://www.oracle.com/technology/products/jdev/index.html</a> and configured it with JDK 1.5.10.<br />
+The next step was to get the quercus ( <a href="http://quercus.caucho.com/download/quercus-3.1.1.war">http://quercus.caucho.com/download/quercus-3.1.1.war</a> ).Downloaded the beta , just to drive.</p>
+
+<p>Imported the WAR file into my JDev project and ran it in the embedded OC4J.<br />
+And viola  i had php running 100% java.<br />
+<a href="http://127.0.0.1:8988/Application1-Project1-context-root/index.php">http://127.0.0.1:8988/Application1-Project1-context-root/index.php</a></p>
+
+<p>&rdquo; Congratulations!  Quercus™ seems to be working fine.  Have fun!&rdquo;</p>
+
+<p>The phpinfo() shows</p>
+
+<pre><code>PHP Version =&gt; 5.2.0&lt;br&gt;&lt;/br&gt;System =&gt; Linux 2.6.18-4-686 i386&lt;br&gt;&lt;/br&gt;Build Date =&gt; 20061220T1222&lt;br&gt;&lt;/br&gt;Configure Command =&gt; n/a&lt;br&gt;&lt;/br&gt;Server API =&gt; CGI&lt;br&gt;&lt;/br&gt;Virtual Directory Support =&gt; disabled&lt;br&gt;&lt;/br&gt;Configuration File (php.ini) Path =&gt; WEB-INF/php.ini&lt;br&gt;&lt;/br&gt;PHP API =&gt; 20031224&lt;br&gt;&lt;/br&gt;PHP Extension =&gt; 20041030&lt;br&gt;&lt;/br&gt;Debug Build =&gt; no&lt;br&gt;&lt;/br&gt;Thread Safety =&gt; enabled&lt;br&gt;&lt;/br&gt;&lt;br&gt;&lt;/br&gt;Registered PHP Streams =&gt; php, file, http, https&lt;span style=&quot;font-family:sans-serif;&quot;&gt;&lt;br&gt;&lt;/br&gt;&lt;br&gt;&lt;/br&gt;Would probably do some more testing on this one.&lt;br&gt;&lt;/br&gt;&lt;br&gt;&lt;/br&gt;Cool&lt;br&gt;&lt;/br&gt;&lt;/span&gt;
+</code></pre>
+</p>
+          <p>24 Aug 2007
+            
+          </p>
+          
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col s3 m1">
+      
+        <a class="btn-floating btn-large waves-effect waves-light" href="http://jkantihub.github.io/cfp-for-fossin2007/"><i class="mdi-navigation-arrow-back"></i></a>
+      
+      </div>
+      <div class="col s6 m10 center">&nbsp</div>
+      <div class="col s3 m1">
+      
+        <a class="btn-floating btn-large waves-effect waves-light" href="http://jkantihub.github.io/fossin2005-a-report-2/"><i class="mdi-navigation-arrow-forward"></i></a>
+      
+      </div>
+    </div>
+
+  </div>
+</div>
+
+  <footer class="page-footer">
+    <div class="footer-copyright">
+      <div class="container">
+      
+      <div class="right">Design <a class="grey-text text-lighten-4" href="http://pdevty.github.io/blog/">pdevty</a></div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+  <script src="http://jkantihub.github.io/js/materialize.min.js"></script>
+  <script src="http://jkantihub.github.io/js/init.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  
+
+  </body>
+</html>
+

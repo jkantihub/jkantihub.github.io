@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on Kanti Jadia</title>
+    <link>http://jkantihub.github.io/tags/android/</link>
+    <description>Recent content in Android on Kanti Jadia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Oct 2010 21:16:37 +0000</lastBuildDate>
+    <atom:link href="http://jkantihub.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wordpress on Android</title>
+      <link>http://jkantihub.github.io/wordpress-on-android/</link>
+      <pubDate>Thu, 14 Oct 2010 21:16:37 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/wordpress-on-android/</guid>
+      <description>&lt;p&gt;With the new release of wordpress I finally took the plunge.The application is great and very responsive.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Android and Mozilla</title>
+      <link>http://jkantihub.github.io/android-and-mozilla/</link>
+      <pubDate>Sun, 09 May 2010 13:36:23 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/android-and-mozilla/</guid>
+      <description>&lt;p&gt;With the first pre-alpha release of fennec for Google Android &lt;a href=&#34;http://www.mozilla.com/en-US/mobile/&#34;&gt;fennec&lt;/a&gt; the mozilla gecko engine has finally arrived on android mobile devices.A lot of it is still to be fixed and I can only say that people will love to see gecko on mobiles officially.&lt;/p&gt;
+
+&lt;p&gt;The current port is a big 11MB download which i just tested on my emulator.Need some more push to put it on the actual device.With this the following are the browsers which i know are available for android.&lt;/p&gt;
+
+&lt;p&gt;google chrome mobile
+opera mini
+mozilla fennec&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

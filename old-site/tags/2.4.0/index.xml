@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2.4.0 on Kanti Jadia</title>
+    <link>http://jkantihub.github.io/tags/2.4/index.0/</link>
+    <description>Recent content in 2.4.0 on Kanti Jadia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jan 2011 12:06:03 +0000</lastBuildDate>
+    <atom:link href="http://jkantihub.github.io/tags/2.4.0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GnuCash 2.4.0 is out ,mysql ,postgresql,sqlite</title>
+      <link>http://jkantihub.github.io/gnucash-2-4-0-is-out-mysql-postgresqlsqlite/</link>
+      <pubDate>Fri, 07 Jan 2011 12:06:03 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/gnucash-2-4-0-is-out-mysql-postgresqlsqlite/</guid>
+      <description>&lt;p&gt;This has been a refreshing change for me.&lt;strong&gt;GnuCash&lt;/strong&gt; has been a very good personal accounting tool for me and I have enjoyed using it whenever needed.I have recommended it t a couple of people as well.&lt;/p&gt;
+
+&lt;p&gt;The new feature which i am thrilled to use is connectivity to the database ( GDA ).This allows you to store the gnucash data in backend tables.You can use sqlite,mysql or postgresql to store the data.
+Most of the gnucash business logic is still in the frontend and it would take some time for the complete makeover as I understand.&lt;/p&gt;
+
+&lt;p&gt;Using the database feature is pretty straight forward.If the option is compiled in your gnucash binary you will notice xml,mysql,postgresql as an option available when you do a &amp;ldquo;Save As&amp;rdquo; in the file menu.&lt;/p&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;attachment_64&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;GnuCash database options&amp;rdquo;]&lt;a href=&#34;http://jkanti.files.wordpress.com/2011/01/gnucash_db.jpg&#34;&gt;&lt;img src=&#34;http://jkanti.files.wordpress.com/2011/01/gnucash_db.jpg?w=300&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;Once you have the data in the database it is really a matter of connecting and getting the reports in the formats you desire.
+One limitation in the earlier versions was the need to understand &amp;ldquo;guile&amp;rdquo; to write reports for gnucash.But now it is just a matter of connecting to the backend and writing the reports.Come on jasperreports&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;From &lt;a href=&#34;http://lwn.net/Articles/421412/&#34;&gt;http://lwn.net/Articles/421412/&lt;/a&gt; &amp;hellip;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Major changes in the 2.4.0 release include; 
+
+      * In addition to the XML backend, Gnucash can now use a SQLite3,
+        MySQL or PostgreSQL database to store the data. This is a new
+        implementation using libdbi. It supports all features including
+        the business features. In order to build with this, add
+        --enable-dbi to the configure command. In addition to the
+        libdbi-dev package for your distribution, you will also need the
+        appropriate DBD (libdbi driver) package for sqlite3, mysql or
+        postgresql.
+      * As a replacement for the current GtkHTML HTML engine used to
+        display reports and graphs, Gnucash can use WebKit. WebKit is
+        the engine used by Google Chrome on Windows and Safari on Apple.
+        In order to build with this, add --with-html-engine=webkit to
+        the configure command. You will need an appropriate webkit-dev
+        package. On win32, you will need to download the
+        webkit-1.1.90-win32.zip file from the source repository and put
+        it into the downloads directory of your gnucash build area.
+      * Updated AqBanking on Win32.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Chao&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

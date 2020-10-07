@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Chrome Docker on Kanti Jadia</title>
+    <link>http://jkantihub.github.io/tags/google-chrome-docker/</link>
+    <description>Recent content in Google Chrome Docker on Kanti Jadia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Aug 2015 08:41:12 +0000</lastBuildDate>
+    <atom:link href="http://jkantihub.github.io/tags/google-chrome-docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Google Chrome in Docker</title>
+      <link>http://jkantihub.github.io/google-chrome-in-docker/</link>
+      <pubDate>Sat, 15 Aug 2015 08:41:12 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/google-chrome-in-docker/</guid>
+      <description>&lt;p&gt;Docker and the way to build an automated container.&lt;/p&gt;
+
+&lt;p&gt;Docker has been in the news recently.For the uninitiated , Docker is containers on top of the Linux kernel.
+It specifically deals with automation of software deployments using software containers.You can also look at docker as chroot++.
+chroot on Unix operating systems is an operation that changes the apparent root directory for the current running process and its children.&lt;/p&gt;
+
+&lt;p&gt;Now lets look at a comparison between docker and Virtual Machines (VM).With x86 virtualization being the norm in modern data centers and cloud providers , its but apparent to do this.
+On a physical machine , you create a set of VMs using KVM,VMware or XEN hypervisor etc.The number of VMs actually represent equivalent physical abstracts.Each VM represnts a full machine.
+Containers are in a different paradigm.You create only that parts of the system , which you will actually need.With docker you could have 10x number of applications running on the same hardware.&lt;/p&gt;
+
+&lt;p&gt;Now lets dwell into the  specifics of a docker build.
+The three basic items needed are
+- The linux kernel with docker engine to run the build
+- The Dockerfile ( the script which defines the application as well as all the dependencies needed for the application)
+- The build process to spin a container (image) and ability to move it across systems.&lt;/p&gt;
+
+&lt;p&gt;Any recent linux distribution like ubuntu , centos etc would have docker available for install.The latest version is Docker 1.81 as of this writing.
+The Dockerfile is the secret sauce.It helps you put together the application image.The more intricate the Dockerfile , the more amount of work would be done.Keep it simple and efficient.
+You actually have to program the Dockerfile.It has a specific sequence and artifacts.&lt;/p&gt;
+
+&lt;p&gt;One of the questions popping on my mind was ability to run Graphical ( X based) UI in Docker.Today I got a little chance to do it and the result is at &lt;a href=&#34;https://github.com/jkantihub/docker-chrome&#34;&gt;https://github.com/jkantihub/docker-chrome&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Look forward to some feedback on the post and any questions which you may have.&lt;/p&gt;
+
+&lt;p&gt;@code is under a free license&lt;/p&gt;
+
+&lt;p&gt;Enjoy.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

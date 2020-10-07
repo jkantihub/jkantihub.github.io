@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fmw 11g on Kanti Jadia</title>
+    <link>http://jkantihub.github.io/tags/fmw-11g/</link>
+    <description>Recent content in Fmw 11g on Kanti Jadia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Aug 2009 05:57:32 +0000</lastBuildDate>
+    <atom:link href="http://jkantihub.github.io/tags/fmw-11g/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fusion Middleware 11g , another look at the architecture.</title>
+      <link>http://jkantihub.github.io/fusion-middleware-11g-another-look-at-the-architecture/</link>
+      <pubDate>Fri, 21 Aug 2009 05:57:32 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/fusion-middleware-11g-another-look-at-the-architecture/</guid>
+      <description>&lt;p&gt;Oracle released Fusion Middleware 11g recently.This release has a lot of changes.
+To enumerate a few , weblogic is now the core java container.Apart from this ,11g identity management uses Access Manager as the authorization broker.There are more such subtle gems hidden inside the release.&lt;/p&gt;
+
+&lt;p&gt;The traditional components like Forms,Reports, Portal and Webcache continue to make
+use of SSO and OIDDAS.These components need a lot more detailed planning before you even start thinking of installation.So , if you have Ebusiness Suite added in the gamit , your options are a bit limited.&lt;/p&gt;
+
+&lt;p&gt;The good part is that you have so many components and ways you could lay your architecture.&lt;/p&gt;
+
+&lt;p&gt;Actual install options would be covered in another post.&lt;/p&gt;
+
+&lt;p&gt;FMW 11g&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

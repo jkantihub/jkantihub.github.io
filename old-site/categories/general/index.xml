@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on Kanti Jadia</title>
+    <link>http://jkantihub.github.io/categories/general/</link>
+    <description>Recent content in General on Kanti Jadia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jan 2013 19:16:42 +0000</lastBuildDate>
+    <atom:link href="http://jkantihub.github.io/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The search for information ...</title>
+      <link>http://jkantihub.github.io/the-search-for-information/</link>
+      <pubDate>Fri, 11 Jan 2013 19:16:42 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/the-search-for-information/</guid>
+      <description>&lt;p&gt;Anybody who has used google search has a little understanding of search.When google launched gmail a few years back , the idea was to have search + mail and the result is for all to see.Gmail is one of the most popular mail applications.
+I have used google desktop search in its hay days and would like to admit that with the amount of information one needs to look up , desktop search was a very good option.With the amount of information shared with you increasing on a daily basis , it is but obvious that you need to search.DocFetcher came to my rescue a lot of times but it still needs a lot of work.&lt;/p&gt;
+
+&lt;p&gt;Searching is a bit different from cataloging and looking up.If you have organized data it is easier to remember where to look and where to find.With a surge of unconditional data growth and lot of disorganized data we keep talking about BigData.BigData in itself is not something new , it has existed from the days of computer evolution or for that matter from the time the printing press was invented.The idea here is to say Bigdata is data which exists in not so organized format.
+The real challenge for bigdata today is to organize and search it while making business sense out of it.&lt;/p&gt;
+
+&lt;p&gt;Once I became aware that DocFetcher it was quite evident to me that Lucene engine is something very powerful.It has capabilities which can be very well applied to BigData problems.
+Lets say you have a hadoop solution which you want to use as a search indexing.This can be accomplished using the Katta project.“Katta is a scalable, failure tolerant, distributed, data storage for real time access.” What I like the most about the Katta project is that it is the same do it yourself as in the early days of FOSS.
+The other proejct which caught my attention is Apache Solr.This is again an enterprise search application.Solr has some RESTFul api’s as well which makes it easy for cloud based deployments.Apache Nutch is also one very good search application which can be combined with Hadoop.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://docfetcher.sourceforge.net&#34;&gt;http://docfetcher.sourceforge.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://lucene.apache.org&#34;&gt;http://lucene.apache.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://lucene.apache.org/solr&#34;&gt;http://lucene.apache.org/solr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hadoop.apache.org&#34;&gt;http://hadoop.apache.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nutch.apache.org/&#34;&gt;http://nutch.apache.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Big_data&#34;&gt;http://en.wikipedia.org/wiki/Big_data&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Your cause is bigger than mine. Really ???</title>
+      <link>http://jkantihub.github.io/your-cause-is-bigger-than-mine-really/</link>
+      <pubDate>Tue, 22 May 2012 16:37:18 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/your-cause-is-bigger-than-mine-really/</guid>
+      <description>&lt;p&gt;A lot of times people get into a vicious cycle thinking they can do something. The only thing they merely do is make noise and more noise. The idea to work on a problem is not to make the problem bigger but to fix it. Mitigate it if that is what makes it go away.&lt;/p&gt;
+
+&lt;p&gt;People adopt different means of resolving problems. They work out in the public to solve problems. They work in a set group of people. They build relationships which last. Alas a single man is not capable of solving all the problems. You need a team at times which is working towards the cause. You need sustained effort ( sometimes for years) to change perceptions. Having worked on a problem for years on end you might realize that you need a fresh start, a new perspective.&lt;/p&gt;
+
+&lt;p&gt;There are too many egos which you need to satisfy if you live your life on somebody&amp;rsquo;s perception. Better spend the efforts in solving the problem. As long as you can solve your own problems first , you can surely reach out to others and help. The fact of the matter is , no single issue is big enough to get the dedication of your entire life if it is not your problem as well. The itch in you has to be taken in the stride for the larger cause. People spend entire lives in search of that perfect solution.&lt;/p&gt;
+
+&lt;p&gt;Where is cause is higher , the means also matter. The means which are used could appear incorrect at times but in the end the cause has to win. The result shows up. The efforts also show up.&lt;/p&gt;
+
+&lt;p&gt;Open , Collaborative , Result Oriented.&lt;/p&gt;
+
+&lt;p&gt;These are the words one should keep in mind.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nagpur Calling...</title>
+      <link>http://jkantihub.github.io/nagpur-calling/</link>
+      <pubDate>Mon, 27 Feb 2012 06:57:32 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/nagpur-calling/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Nagpur Calling&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;On the 24th of Feb I was on a mission.A mission to know if Nagpur is calling or not.
+The MIHAN SEZ project , the cornerstone of MADC for the Nagpur Airport was being promoted here.&lt;/p&gt;
+
+&lt;p&gt;The MIHAN project has been in existence for a good part of the last decade and comprises of a cargo hub with Airport and a SEZ with residential zone attached.The unique attributes of the project make it an ideal location in Central India offering immense possibilities of growth.The project aims to act as the catalyst in the growth of Central India ,providing the much needed
+boost to the economic activity in and around Nagpur.&lt;/p&gt;
+
+&lt;p&gt;Now lets see what really happened at the event.The event was setup in Hotel Center Point in the central part of Nagpur.The distance of the MIHAN project from the hotel was not more than 10 km&amp;rsquo;s.The least in terms of access to an SEZ from the central part of the city.&lt;/p&gt;
+
+&lt;p&gt;The VED council has done a very good act to put an excellent event in place  to promote the facilities and economic vitality of Nagpur.&amp;lt;!&amp;ndash; more &amp;ndash;&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;The first to come on the dias was Mr.Devendra Parekh, the head for VED Council.He summarized the need for Nagpur to becoming the leader in economic developement.He described the state of Nagpur from being a follower to a challenger,from being a challenger to being a leader.
+Nagpur has a lot of positives in terms of development.It has an engineering pool  with about 20,000 graduates available every year.Then there are the regular graduates which amount to around 50,000 ready to access pool of talent.&lt;/p&gt;
+
+&lt;p&gt;The next to take the stage was Rajiv Vaishnav.A keen person interested to see the opportunities Nagpur can offer.He identified that Nagpur has all the necessary ingredients to be a great IT/ITES destination.He also showed interest in the various initiatives being taken to make Nagpur a hub for IT/ITES operations.&lt;/p&gt;
+
+&lt;p&gt;Then to be on the stage was the current vice chairman of MADC , Mr.U.P.S.Madan.Mr.Madan was pretty straightforward on whatever challenges he was facing.He clarified that the MIHAN project is all set with the best available infrastructure which is ready to boot.
+He mentioned pretty clearly identified the last few issues and was more than happy with the progress.With the global slowdown global companies are hunting for good places to complement there operations in major cities and Nagpur is an ideal location to do that.&lt;/p&gt;
+
+&lt;p&gt;The next to take the stage was Mr.Nitin Raut, minister from the Govt of Maharashtra.He as well mentioned the facilities of Nagpur and prospects in terms of economic development.&lt;/p&gt;
+
+&lt;p&gt;Once the inaugural speeches were done there were a few panel discussions  on the Opportunities and Advantage of Nagpur.&lt;/p&gt;
+
+&lt;p&gt;The panelist included Raghavendra K ( Vice President and Head - HR ,Infosys BPO) , Praveen Kamath Kumbla(Head Talent Acquisition, Wipro BPO)
+Mr.Ajay Chaturvedi, CEO and Founder HarVa BPO(The rural , all-women BPO) and others.
+Companies like Persistent Systems and ADCC infocad also had leading representatives.The idea of Nagpur becoming a first grade IT/ITES destination competing with other cities across the world was being shown with clear advantages.&lt;/p&gt;
+
+&lt;p&gt;All in all I was very satisfied to see the growth of Nagpur from being a small place to the 114th largest city in the world.I am thankful to my friends back in Nagpur for taking the initiative in showcasing the advantages of Nagpur in terms of returning and making Nagpur the next destination in the India growth story.&lt;/p&gt;
+
+&lt;p&gt;Growit link - &lt;a href=&#34;http://www.growit.in/nagpur-city/ved-nasscom-it-ites-conference-2012/311-nagpur-calling-conference-ends-on-a-promising-note.html&#34;&gt;http://www.growit.in/nagpur-city/ved-nasscom-it-ites-conference-2012/311-nagpur-calling-conference-ends-on-a-promising-note.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;What you learn in college will stick with you for the lifetime&#34;</title>
+      <link>http://jkantihub.github.io/what-you-learn-in-college-will-stick-with-you-for-the-lifetime/</link>
+      <pubDate>Wed, 20 Apr 2011 06:24:04 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/what-you-learn-in-college-will-stick-with-you-for-the-lifetime/</guid>
+      <description>&lt;p&gt;College education is something at which point you are not mature enough to
+understand everything but are mature enough to not able to understand at all.I
+would like to give you a small story which happened to me many years ago.I was
+sitting alone and pondering what i will do on my exams the next day.I was really
+in thought if i faired miserably or had a bad day this would make a wreck
+out of me.&lt;/p&gt;
+
+&lt;p&gt;Here came along my elder brother who gave his mind out to me.He said
+&amp;ldquo;What you learn in college will stick with you for the lifetime&amp;rdquo;.
+The friends and colleagues you make may not be with you , the actual knowledge
+will also not be with you.The important thing which will stay with you is the
+application of this learning.You will apply the skills you learned in college for
+many years to come.&lt;/p&gt;
+
+&lt;p&gt;The importance of getting good college education thus gets exemplified.You need
+to be rooted at all times and keep your feet on the ground.You need to make
+optimal use of this opportunity and keep things in perspective.&amp;lt;!&amp;ndash; more &amp;ndash;&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Now , how is this related to the opensource way.The way we comprehend knowledge
+and the way it is shared is nearly the same way opensource works.
+You get shared knowledge.You get information which has been passed on from
+generations.You are in fact standing on the shoulders of giant&amp;rsquo;s and making
+the knowledge commons work.&lt;/p&gt;
+
+&lt;p&gt;A very startling fact i discovered recently was the way Salman Khan from
+Khanacademy is approaching this.He has successfully been putting together
+videos which teach you from the basics to a lot of advance subjects.Subjects
+which when learned as a new topic seem difficult at first.I am a big fan of the
+Khan Academy.It paves the way for the learning to be self paced and in short
+order.You need not sit for a long lecture in a crammed class trying to comprehend
+what the professor/teacher just spoke.You keep yourself in the confines of a
+comfortable environment and can pace the learning  at the same speed at which
+you can comprehend and understand the best.You can always pause the video and
+ask a few questions and than resume at the same point.The lessons are not in a
+long boring format.Each of the videos is just paced right keeping it in the
+confines of around 10 minutes.&lt;/p&gt;
+
+&lt;p&gt;All this on what basis.He has licensed all his work under a CC license.Anybody
+can make use of these lectures in the way they like.There already are so many
+different people interested in Khan academy and the way it is working.Here is
+wishing best of luck to Salman Khan and here are the three cheers for the
+freedom way.The way to move forward.&lt;/p&gt;
+
+&lt;p&gt;Reference URL&amp;rsquo;s
+Khan Academy - &lt;a href=&#34;http://www.khanacademy.org/&#34;&gt;http://www.khanacademy.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GnuCash 2.4.0 is out ,mysql ,postgresql,sqlite</title>
+      <link>http://jkantihub.github.io/gnucash-2-4-0-is-out-mysql-postgresqlsqlite/</link>
+      <pubDate>Fri, 07 Jan 2011 12:06:03 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/gnucash-2-4-0-is-out-mysql-postgresqlsqlite/</guid>
+      <description>&lt;p&gt;This has been a refreshing change for me.&lt;strong&gt;GnuCash&lt;/strong&gt; has been a very good personal accounting tool for me and I have enjoyed using it whenever needed.I have recommended it t a couple of people as well.&lt;/p&gt;
+
+&lt;p&gt;The new feature which i am thrilled to use is connectivity to the database ( GDA ).This allows you to store the gnucash data in backend tables.You can use sqlite,mysql or postgresql to store the data.
+Most of the gnucash business logic is still in the frontend and it would take some time for the complete makeover as I understand.&lt;/p&gt;
+
+&lt;p&gt;Using the database feature is pretty straight forward.If the option is compiled in your gnucash binary you will notice xml,mysql,postgresql as an option available when you do a &amp;ldquo;Save As&amp;rdquo; in the file menu.&lt;/p&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;attachment_64&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;300&amp;rdquo; caption=&amp;ldquo;GnuCash database options&amp;rdquo;]&lt;a href=&#34;http://jkanti.files.wordpress.com/2011/01/gnucash_db.jpg&#34;&gt;&lt;img src=&#34;http://jkanti.files.wordpress.com/2011/01/gnucash_db.jpg?w=300&#34; alt=&#34;&#34; /&gt;
+&lt;/a&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;Once you have the data in the database it is really a matter of connecting and getting the reports in the formats you desire.
+One limitation in the earlier versions was the need to understand &amp;ldquo;guile&amp;rdquo; to write reports for gnucash.But now it is just a matter of connecting to the backend and writing the reports.Come on jasperreports&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;From &lt;a href=&#34;http://lwn.net/Articles/421412/&#34;&gt;http://lwn.net/Articles/421412/&lt;/a&gt; &amp;hellip;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Major changes in the 2.4.0 release include; 
+
+      * In addition to the XML backend, Gnucash can now use a SQLite3,
+        MySQL or PostgreSQL database to store the data. This is a new
+        implementation using libdbi. It supports all features including
+        the business features. In order to build with this, add
+        --enable-dbi to the configure command. In addition to the
+        libdbi-dev package for your distribution, you will also need the
+        appropriate DBD (libdbi driver) package for sqlite3, mysql or
+        postgresql.
+      * As a replacement for the current GtkHTML HTML engine used to
+        display reports and graphs, Gnucash can use WebKit. WebKit is
+        the engine used by Google Chrome on Windows and Safari on Apple.
+        In order to build with this, add --with-html-engine=webkit to
+        the configure command. You will need an appropriate webkit-dev
+        package. On win32, you will need to download the
+        webkit-1.1.90-win32.zip file from the source repository and put
+        it into the downloads directory of your gnucash build area.
+      * Updated AqBanking on Win32.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Chao&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wordpress on Android</title>
+      <link>http://jkantihub.github.io/wordpress-on-android/</link>
+      <pubDate>Thu, 14 Oct 2010 21:16:37 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/wordpress-on-android/</guid>
+      <description>&lt;p&gt;With the new release of wordpress I finally took the plunge.The application is great and very responsive.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Android and Mozilla</title>
+      <link>http://jkantihub.github.io/android-and-mozilla/</link>
+      <pubDate>Sun, 09 May 2010 13:36:23 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/android-and-mozilla/</guid>
+      <description>&lt;p&gt;With the first pre-alpha release of fennec for Google Android &lt;a href=&#34;http://www.mozilla.com/en-US/mobile/&#34;&gt;fennec&lt;/a&gt; the mozilla gecko engine has finally arrived on android mobile devices.A lot of it is still to be fixed and I can only say that people will love to see gecko on mobiles officially.&lt;/p&gt;
+
+&lt;p&gt;The current port is a big 11MB download which i just tested on my emulator.Need some more push to put it on the actual device.With this the following are the browsers which i know are available for android.&lt;/p&gt;
+
+&lt;p&gt;google chrome mobile
+opera mini
+mozilla fennec&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I5700 Galaxy Spica - Samsung&#39;s Android phone</title>
+      <link>http://jkantihub.github.io/i5700-galaxy-spica-samsungs-android-phone/</link>
+      <pubDate>Wed, 24 Mar 2010 23:42:12 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/i5700-galaxy-spica-samsungs-android-phone/</guid>
+      <description>&lt;p&gt;This piece of hardware has pretty good specs.The stock software is android 1.5 with some additional samsung applications.
+The spica is available in a lot of markets other than the US and at this price point ( 12k Rs) is a really attractive
+offer.&lt;/p&gt;
+
+&lt;p&gt;Once i got the phone , the first thing i tried to find is how i can update software on this phone.
+The android market with its list of applications turned out to be a good head turner than going and looking
+for applications for say a Symbian or Java enabled phone.
+There is a small application call J2ME apps ( bundled by Samsung i suppose).This would possibly make installation
+of J2ME applications also possible on the SPICA.&lt;/p&gt;
+
+&lt;p&gt;The touch keyboard has two options , namely the default android keyboard and the samsung touch keyboard.
+The key tapping is nice but not very good.Maybe it would take a while for me to get used to it.
+I am still looking for alternate keyboards.&lt;/p&gt;
+
+&lt;p&gt;Samsung announced that the SPICA would soon get a android 2.1 update and that would make it more useful.
+I called up the Samsung customer care to find out and was told none of it is available in India yet.&lt;/p&gt;
+
+&lt;p&gt;The SPICA phone is pretty bad at PC connectivity.The bundled NPS software from samsung does not support this phone.
+Its not even detected properly if attached to a PC.Even after the proper drivers are installed , the official software
+fails to recognize the phonebook, contacts or any other content on the phone.This would be one big reason why samsung android phones would not be lapped up by users at large.&lt;/p&gt;
+
+&lt;p&gt;I have had rockbox on my ipod for a long time and thus may pretty well get some other build installed on top of the
+SPICA.With android being free software i only hope somebody comes up with stable builds for android 1.5 as well.&lt;/p&gt;
+
+&lt;p&gt;For the uninitiated, I had resisted getting a smartphone for a long time and would like input on different ways i
+could make use of it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The other side of 30...</title>
+      <link>http://jkantihub.github.io/the-other-side-of-30/</link>
+      <pubDate>Wed, 24 Jun 2009 08:34:47 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/the-other-side-of-30/</guid>
+      <description>&lt;p&gt;In the last week i entered a new phase in life.
+Supported by family and friends  i just turn over to the next decade in life.&lt;/p&gt;
+
+&lt;p&gt;The 30&amp;rsquo;s i hear are very conducive to growth.Whatever we learn and grasp over the years needs to be applied now.&lt;/p&gt;
+
+&lt;p&gt;Looking forward to a fruitful year ahead.&lt;/p&gt;
+
+&lt;p&gt;Chao :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wonderful , for Subroto Bagchi&#39;s Go Kiss the World.</title>
+      <link>http://jkantihub.github.io/wonderful-for-subroto-bagchis-go-kiss-the-world/</link>
+      <pubDate>Sat, 18 Oct 2008 17:27:34 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/wonderful-for-subroto-bagchis-go-kiss-the-world/</guid>
+      <description>&lt;p&gt;Wonderful , that is the word i would say for Subroto Bagchi&amp;rsquo;s &lt;a href=&#34;http://www.mindtree.com/subrotobagchi/the-book/&#34;&gt;Go Kiss the World&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Its been a long time i have found a book with such value system.Sometimes its hard to believe but than the reassuring writing of Subroto make it more fun.&lt;/p&gt;
+
+&lt;p&gt;Would be entrepreneurs , here is the 10 simple steps which can make you think right.
+Not to spill out the beans but management books are management books this book is for the social entrepreneur as well.
+Whatever we do in this lifetime keeps coming back and back round and round.&lt;/p&gt;
+
+&lt;p&gt;The Gardener of Mindtree has to take gardening to a new level.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>And now Google energy</title>
+      <link>http://jkantihub.github.io/and-now-google-energy/</link>
+      <pubDate>Thu, 02 Oct 2008 14:07:41 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/and-now-google-energy/</guid>
+      <description>&lt;p&gt;The hopes are high.The world is flat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://googleblog.blogspot.com/2008/10/clean-energy-2030.html&#34;&gt;Here&lt;/a&gt; Google.org presents &lt;a href=&#34;http://googleblog.blogspot.com/2008/10/clean-energy-2030.html&#34;&gt;Google&amp;rsquo;s view on climate change&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The proposal is to make the following things possible on your list of energy consumptions.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Use energy efficient products.
+This clearly translates to a competitive marketplace where you will find new and innovative products which consume less and less electricity.Look at your mobile charger(too small an example).How much of energy does it consume.Is it required that you put the charger plugged in all the time.
+Look at the number of other equipment  lights, fans , coolers , AC , TV , Fridge and the other things.
+Try to use as efficient energy product as possible.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Measuring your energy consumption
+What we do today is pay for the energy consumed.The day the electricity bill arrives we look oh, that is the amount of energy we used.The thought should change.We should start measuring energy real time.Whats the current consumption.What if a particular equipment if changed across the board.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sources of energy
+The main source of electricity today is the Electrical Grid.We need to find ways to tap other sources of energy,cleaner energy which can be reused.Think of something which can be recycled.Maybe a battery which could be charged 10000 times.Maybe a cradle and shaft which generates electricity when we cycle,run or walk.Small small innovations but innovations which are smart.Which can reduce the burden on Mother earth and make our living more cleaner and efficient.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There is a lot more to do , to research and to make things happen.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Greenpeace at getting the fuel change efficiently</title>
+      <link>http://jkantihub.github.io/greenpeace-at-getting-the-fuel-change-efficiently/</link>
+      <pubDate>Wed, 16 Jul 2008 13:44:35 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/greenpeace-at-getting-the-fuel-change-efficiently/</guid>
+      <description>&lt;p&gt;Greenpeace supporters in India are getting together to take the case of fuel efficiency in India.
+The proposal can be seen at &lt;a href=&#34;http://www.greenpeace.org/india/lets-drive-change&#34;&gt;http://www.greenpeace.org/india/lets-drive-change&lt;/a&gt;.
+The manufacturers of automobiles should get more fuel efficient and eco friendly cars in the market.
+And we need all the new ideas in the world to get transported from one place to other.
+Maybe a few meters, a few hundred meters to a few hundred kilometer&amp;rsquo;s.&lt;/p&gt;
+
+&lt;p&gt;Lets keep the bell ringing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>This is a perfect picture</title>
+      <link>http://jkantihub.github.io/28/</link>
+      <pubDate>Sat, 12 Jul 2008 11:26:03 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/28/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://picasaweb.google.com/lh/photo/nxTr_8txNDfR8ERQa2p8JQ?authkey=d62P4-azTic&#34;&gt;&lt;img src=&#34;http://lh3.ggpht.com/jkanti/SGI81hZmYrI/AAAAAAAACPA/JAelDVPMY8U/s200/IMG_0793.JPG&#34; alt=&#34;IMG_0793.JPG&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This photo was taken near Ooty.It has been one of the best ones which i like.
+Hope you like it as well.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>No Content Found</title>
+      <link>http://jkantihub.github.io/27/</link>
+      <pubDate>Sat, 12 Jul 2008 11:24:04 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/27/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://picasaweb.google.com/lh/photo/mp-IgGHHIWUbCqQl0dhzFA?authkey=d62P4-azTic&#34;&gt;&lt;img src=&#34;http://lh5.ggpht.com/jkanti/SGI7-euFq-I/AAAAAAAACOg/zLXhK1M2Mgs/s800/IMG_0697.JPG&#34; alt=&#34;IMG_0697.JPG&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Netbackup and oracle_link</title>
+      <link>http://jkantihub.github.io/netbackup-and-oracle_link/</link>
+      <pubDate>Fri, 04 Jul 2008 06:46:19 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/netbackup-and-oracle_link/</guid>
+      <description>&lt;p&gt;Whenever you need to configure the Oracle database with netbackup you need to set up a link from the netbackup client to ORACLE_HOME.
+The simplest way is to go to netbackup/bin and execute the &amp;ldquo;oracle_link&amp;rdquo; script.
+The script links libobk.a64 to $ORACLE_HOME/lib/libobk.a64.&lt;/p&gt;
+
+&lt;p&gt;The common error here is
+&amp;ldquo;ORA-27211: Failed to load Media Management Library&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oracle Weblogic Server on Kanti Jadia</title>
+    <link>http://jkantihub.github.io/tags/oracle-weblogic-server/</link>
+    <description>Recent content in Oracle Weblogic Server on Kanti Jadia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Aug 2009 06:27:38 +0000</lastBuildDate>
+    <atom:link href="http://jkantihub.github.io/tags/oracle-weblogic-server/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Oracle Weblogic Server 10.3.1 FMW 11g</title>
+      <link>http://jkantihub.github.io/oracle-weblogic-server-1031-fmw-11g/</link>
+      <pubDate>Fri, 21 Aug 2009 06:27:38 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/oracle-weblogic-server-1031-fmw-11g/</guid>
+      <description>&lt;p&gt;Weblogic 10.3.1  install review for FMW 11g&lt;/p&gt;
+
+&lt;p&gt;Weblogic is the base java container for FMW 11g.The first piece of software you will put for any FMW 11g install.Oracle Weblogic Server is a collection of the application server,admin console and other components.&lt;/p&gt;
+
+&lt;p&gt;What I like about the install is the number of options you have.The install can be done online using the net installer or using the downloaded software.You have a text as well as gui based installer.You can also script the install for silent mode.&lt;/p&gt;
+
+&lt;p&gt;The install creates a middleware home for you.This will be the top level directory under which additional FMW 11g components would be installed.In weblogic , each OC4J container is now a domain.As you install the various components eg. Forms,Reports etc new domains get created.&lt;/p&gt;
+
+&lt;p&gt;There were 108 different ways you could have Oracle Application Server 10g put into use.With Fusion Middleware 11g I can see much more.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

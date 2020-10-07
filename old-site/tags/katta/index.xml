@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katta on Kanti Jadia</title>
+    <link>http://jkantihub.github.io/tags/katta/</link>
+    <description>Recent content in Katta on Kanti Jadia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jan 2013 19:16:42 +0000</lastBuildDate>
+    <atom:link href="http://jkantihub.github.io/tags/katta/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The search for information ...</title>
+      <link>http://jkantihub.github.io/the-search-for-information/</link>
+      <pubDate>Fri, 11 Jan 2013 19:16:42 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/the-search-for-information/</guid>
+      <description>&lt;p&gt;Anybody who has used google search has a little understanding of search.When google launched gmail a few years back , the idea was to have search + mail and the result is for all to see.Gmail is one of the most popular mail applications.
+I have used google desktop search in its hay days and would like to admit that with the amount of information one needs to look up , desktop search was a very good option.With the amount of information shared with you increasing on a daily basis , it is but obvious that you need to search.DocFetcher came to my rescue a lot of times but it still needs a lot of work.&lt;/p&gt;
+
+&lt;p&gt;Searching is a bit different from cataloging and looking up.If you have organized data it is easier to remember where to look and where to find.With a surge of unconditional data growth and lot of disorganized data we keep talking about BigData.BigData in itself is not something new , it has existed from the days of computer evolution or for that matter from the time the printing press was invented.The idea here is to say Bigdata is data which exists in not so organized format.
+The real challenge for bigdata today is to organize and search it while making business sense out of it.&lt;/p&gt;
+
+&lt;p&gt;Once I became aware that DocFetcher it was quite evident to me that Lucene engine is something very powerful.It has capabilities which can be very well applied to BigData problems.
+Lets say you have a hadoop solution which you want to use as a search indexing.This can be accomplished using the Katta project.“Katta is a scalable, failure tolerant, distributed, data storage for real time access.” What I like the most about the Katta project is that it is the same do it yourself as in the early days of FOSS.
+The other proejct which caught my attention is Apache Solr.This is again an enterprise search application.Solr has some RESTFul api’s as well which makes it easy for cloud based deployments.Apache Nutch is also one very good search application which can be combined with Hadoop.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://docfetcher.sourceforge.net&#34;&gt;http://docfetcher.sourceforge.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://lucene.apache.org&#34;&gt;http://lucene.apache.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://lucene.apache.org/solr&#34;&gt;http://lucene.apache.org/solr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://hadoop.apache.org&#34;&gt;http://hadoop.apache.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nutch.apache.org/&#34;&gt;http://nutch.apache.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Big_data&#34;&gt;http://en.wikipedia.org/wiki/Big_data&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

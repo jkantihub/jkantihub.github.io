@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Freedom on Kanti Jadia</title>
+    <link>http://jkantihub.github.io/categories/digital-freedom/</link>
+    <description>Recent content in Digital Freedom on Kanti Jadia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 May 2012 05:27:37 +0000</lastBuildDate>
+    <atom:link href="http://jkantihub.github.io/categories/digital-freedom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Free Software journey for Kanti Jadia</title>
+      <link>http://jkantihub.github.io/free-software-journey-for-kanti-jadia/</link>
+      <pubDate>Wed, 09 May 2012 05:27:37 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/free-software-journey-for-kanti-jadia/</guid>
+      <description>&lt;p&gt;Free Software journey for Kanti Jadia&lt;/p&gt;
+
+&lt;p&gt;Somewhere in the year 1997 there was a wave of GNU/Linux running in the tech circles.I was still in college and with a bunch of friends wanting to know what this buzz was about.We bought the latest edition of PC Quest ( the source of computer information in those days).This was probably the first few covers which had a CD which came along.
+Since we as students did not have access to a computer which we could tweak we settled for magazine and read through the articles.These were early days and we did not have an understanding as to what we will be doing after graduating from college.&lt;/p&gt;
+
+&lt;p&gt;Once out of college I was still hunting for a job.Dabbling with different set of initial hurdles I landed a job at Micropro in December 1998.I was employed in the hardware division under the leadership of Mr.Meher Pophali.Working for a client where I had to reinstall the OS , I asked why reinstall the software if the problem can be solved.This inquisitive nature would come very handy to me later.The problem was not really solved as it was a proprietary OS and I did not have the necessary skills with OS specific software.&amp;lt;!&amp;ndash; more &amp;ndash;&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;This incident led me to do software support more than to do hardware.I was designated to go to customer place and sort software problems.Problems like system not working,printer drivers not working , scanner not working and so on so forth.Slowly and steadily I got exposed to more complex piece of software which were not really written by one person.The concept of software companies and the way they do business became known to me.I got to know of software which needed a dongle to work.The dongle was in place so that at one time only one computer could be used to run the software.&lt;/p&gt;
+
+&lt;p&gt;Gradually I was put to resolve more complex issues which included installation/configuration and troubleshooting of oracle software,networking,novell, exchange and other products.Then at one point I got a request to install oracle on SCO.Meanwhile in our office there was somebody working on GNU/Linux.He had installed the software of Redhat 5.1 or 5.2.I got interested and wanted to install it myself.&lt;/p&gt;
+
+&lt;p&gt;The old hats on this reader list who know about those days would remember how difficult it was to get things working on a GNU/Linux system.Still I was inclined to try things out.The person who had initiated this GNU/Linux churn in our office (Mr.Jitendra Pal) decided to leave micropro and there was a void created.The consulting which we were doing for a client with Pal sir was handed over to me.&lt;/p&gt;
+
+&lt;p&gt;I started reading more and more about GNU/Linux.Building proxy server , mail server , web server etc.We built a backup server with Samba as well so that the users on the network could dump their files onto the network.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile , we got a new internet connection in our own office.I was designated to make internet connectivity available to everybody in office.I built a proxy server , a mail server systems , some backup solution and so on so forth.There was an incentive given in terms of open access to internet if you come to office a little bit early ( when you have limited resources you tend to put curbs ).There are a lot more interesting stories which I can tell , but leaving them so as not to digress from the topic.We had a series of projects which were executed using GNU/Linux.&lt;/p&gt;
+
+&lt;p&gt;As I read more and more about GNU/Linux I got acquainted with licensing aspect, the GPL and Apache license.This led me to delve further and at one point I thought about leaving my job and joining the Free Software foundation in India.I met Dr.Nagarjuna and expressed my desire to help the movement in my capacity.Those were early days for the FSF-I and a lot of things were happening around.The wave of software patents came and It was really needed to stop the patents amendment.The fight against software patents is an ongoing one and will continue.&lt;/p&gt;
+
+&lt;p&gt;Gnunify happened in 2003 , and that was when we had discussions as to how some projects should move forward.I ran a report on gnunify which was widely circulated.[1]
+Thanks to Niyam Bhushan ( the LL fame ) we got a nice logo and logotype for FSF-India.&lt;/p&gt;
+
+&lt;p&gt;Then I moved to Bangalore and started interacting with other like minded people.I was looking at making FSF-I represent at the Linux Bangalore conference.Eventually in 2005 with the renamed FOSS.IN we were able to get something.Imagine , in 2003 people were asking what FSF-India does [2] and in 2005 we got dedicated space for a stall.I have fond memories of the time me , Praveen and others were working to put the stall up for FSF-India[3].This was a big event where I represented FSF-India as a volunteer.I have been a long time supporter of free software and would continue to be.This is also reflective in my professional career as well.&lt;/p&gt;
+
+&lt;p&gt;Continuing on the journey , I am embarking on a new endeavor in my professional life.This one is going to make a few new frontiers again.&lt;/p&gt;
+
+&lt;p&gt;Ending this with words from Geetanjali.&lt;/p&gt;
+
+&lt;p&gt;Where The Mind is Without Fear
+From Rabindranath Tagore&amp;rsquo;s Geetanjali
+——————————————————–&lt;/p&gt;
+
+&lt;p&gt;Where the mind is without fear
+And the head is held high
+Where knowledge is free
+Where the world has not been broken up
+Into fragments by narrow domestic walls
+Where words come out from the depth of truth
+Where tireless striving stretches its arms towards perfection
+Where the clear stream of reason has not lost its way
+Into the dreary desert sand of dead habit
+Where the mind is led forward by thee
+Into ever-widening thought and action
+Into that heaven of freedom, my Father, let my country awake&lt;/p&gt;
+
+&lt;p&gt;Copyright &amp;copy; 2012 Kanti Nandkishore Jadia
+Verbatim copying and distribution of this entire article are permitted
+worldwide without royalty in any medium provided this notice is preserved&lt;/p&gt;
+
+&lt;p&gt;Links&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://tech.groups.yahoo.com/group/ilug-goa/message/5678&#34;&gt;http://tech.groups.yahoo.com/group/ilug-goa/message/5678&lt;/a&gt; - Gnunify 2003 - A report&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://groups.yahoo.com/group/linux-bangalore-non-tech/message/2791&#34;&gt;http://groups.yahoo.com/group/linux-bangalore-non-tech/message/2791&lt;/a&gt; - What does FSF-India do?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mmethsmalappuram.web4all.in/archives/fsf-friends/2005-December/003733.html&#34;&gt;http://mmethsmalappuram.web4all.in/archives/fsf-friends/2005-December/003733.html&lt;/a&gt;  - FOSS.IN 2005 - A report&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tech.groups.yahoo.com/group/foss-in/message/1735&#34;&gt;http://tech.groups.yahoo.com/group/foss-in/message/1735&lt;/a&gt; - FOSS.IN some suggestions on names&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.linuxjournal.com/article/8675&#34;&gt;http://www.linuxjournal.com/article/8675&lt;/a&gt; - The What, Why and When of Free Software in India&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oracle Ebusiness Suite Browser Certifications.</title>
+      <link>http://jkantihub.github.io/oracle-ebusiness-suite-browser-certifications/</link>
+      <pubDate>Mon, 27 Jun 2011 10:46:14 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/oracle-ebusiness-suite-browser-certifications/</guid>
+      <description>&lt;p&gt;Recently Oracle was looking for some feedback on browser usage.The recent Mozilla policy for browser certifications has put them in a dilemma.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blogs.oracle.com/stevenChan/entry/survey_your_enterprise_plans_for&#34;&gt;http://blogs.oracle.com/stevenChan/entry/survey_your_enterprise_plans_for&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mozilla is committing to releasing new Firefox versions &lt;a href=&#34;http://mozilla.github.com/process-releases/draft/development_specifics/&#34;&gt;every six weeks&lt;/a&gt;.  Mozilla released Firefox 5 this week.  With this release, Mozilla states that Firefox 4 is End-of-Life and &lt;a href=&#34;http://www.computerworld.com/s/article/9217837/Mozilla_retires_Firefox_4_from_security_support&#34;&gt;will not receive any additional security updates&lt;/a&gt;.  In a comment thread posted to &lt;a href=&#34;http://mike.kaply.com/2011/06/23/understanding-the-corporate-impact/&#34;&gt;Mike Kaply&amp;rsquo;s blog article discussing these new Firefox policies&lt;/a&gt;, Asa Dotzler from Mozilla stated:&amp;hellip;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Here is my take on this&amp;hellip;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;To the point of upgrades , i would like to throw a case in point.Sometime ago the main website for Oracle Support (support.oracle.com) was moved to a flash enabled one.The site simply mentioned that it needs flash version &amp;ldquo;Adobe Flash Player 9.0.115 or above  to work&amp;rdquo;.Would this be right for Oracle to say that it needs 9.0.115 only as they certified the website only for this specific version of flash.I would doubt you would do that.You will instead say as long as the basic set of features we need to run this website are available we should be good to get past the version hell.&amp;lt;!&amp;ndash; more &amp;ndash;&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;What i would instead want Oracle to do is to certify on the features( web standards) and than whatever browsers support the standards it would automatically work with the application ( EBS in this case).&lt;/p&gt;
+
+&lt;p&gt;The other question is on security updates.This I consider is more important to get by than the version hell.It might appear that the security updates would stop if certain versions of the software are not provided.Please provide 3 examples/points to me why Oracle still support IE6 and IE7 when the company producing it has went to IE9 and soon to be IE X.&lt;/p&gt;
+
+&lt;p&gt;Again refer back to the previous paragraph.Its better we talk about specific browser features than about specific versions.&lt;/p&gt;
+
+&lt;p&gt;Since MS is dominant desktop platform today , we might think this is tied to the Operating System version and the upgrade cycle on the OS.Soon in the future with so many tablets and mobile phones (smartphones) around you will start building front ends for these diverse platforms(ipad,android,hp tablets etc).This would be prudent to say that this new set of Operating Systems would also vouch for part of the enterprise space.You will have to certify features on them as well.&lt;/p&gt;
+
+&lt;p&gt;Looking at this survey , we might be biased to say that upgrades need to planned and the browser is one thick block which is the gateway to the application.I would rather say the browser is the enabler.As long as it provides a certain set of features you should be okay to move.&lt;/p&gt;
+
+&lt;p&gt;Drop me a personal mail if you think we can discuss it in some other ways.I always see Oracle as one company which can do a significant change in the IT Marketplace.Well change the game.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Update&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;..&lt;/p&gt;
+
+&lt;p&gt;Mozilla is committed to providing the best Web experience for people everywhere, for whom the Web has become such an important part of their daily lives.  Providing updates to Firefox more frequently allows us to secure users against emerging threats and provide the platform for innovation that today’s rich and compelling Web experiences demand.&lt;/p&gt;
+
+&lt;p&gt;The Mozilla Community has focused our efforts on the needs of the individual user, and prioritized the product roadmap and features accordingly. However, as is the case with many technologies, loyal Firefox users and their IT departments, have sought to bring Firefox into their places of work.&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://blog.mozilla.com/blog/2011/06/28/firefox-in-the-enterprise/&#34;&gt;http://blog.mozilla.com/blog/2011/06/28/firefox-in-the-enterprise/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#34;What you learn in college will stick with you for the lifetime&#34;</title>
+      <link>http://jkantihub.github.io/what-you-learn-in-college-will-stick-with-you-for-the-lifetime/</link>
+      <pubDate>Wed, 20 Apr 2011 06:24:04 +0000</pubDate>
+      
+      <guid>http://jkantihub.github.io/what-you-learn-in-college-will-stick-with-you-for-the-lifetime/</guid>
+      <description>&lt;p&gt;College education is something at which point you are not mature enough to
+understand everything but are mature enough to not able to understand at all.I
+would like to give you a small story which happened to me many years ago.I was
+sitting alone and pondering what i will do on my exams the next day.I was really
+in thought if i faired miserably or had a bad day this would make a wreck
+out of me.&lt;/p&gt;
+
+&lt;p&gt;Here came along my elder brother who gave his mind out to me.He said
+&amp;ldquo;What you learn in college will stick with you for the lifetime&amp;rdquo;.
+The friends and colleagues you make may not be with you , the actual knowledge
+will also not be with you.The important thing which will stay with you is the
+application of this learning.You will apply the skills you learned in college for
+many years to come.&lt;/p&gt;
+
+&lt;p&gt;The importance of getting good college education thus gets exemplified.You need
+to be rooted at all times and keep your feet on the ground.You need to make
+optimal use of this opportunity and keep things in perspective.&amp;lt;!&amp;ndash; more &amp;ndash;&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Now , how is this related to the opensource way.The way we comprehend knowledge
+and the way it is shared is nearly the same way opensource works.
+You get shared knowledge.You get information which has been passed on from
+generations.You are in fact standing on the shoulders of giant&amp;rsquo;s and making
+the knowledge commons work.&lt;/p&gt;
+
+&lt;p&gt;A very startling fact i discovered recently was the way Salman Khan from
+Khanacademy is approaching this.He has successfully been putting together
+videos which teach you from the basics to a lot of advance subjects.Subjects
+which when learned as a new topic seem difficult at first.I am a big fan of the
+Khan Academy.It paves the way for the learning to be self paced and in short
+order.You need not sit for a long lecture in a crammed class trying to comprehend
+what the professor/teacher just spoke.You keep yourself in the confines of a
+comfortable environment and can pace the learning  at the same speed at which
+you can comprehend and understand the best.You can always pause the video and
+ask a few questions and than resume at the same point.The lessons are not in a
+long boring format.Each of the videos is just paced right keeping it in the
+confines of around 10 minutes.&lt;/p&gt;
+
+&lt;p&gt;All this on what basis.He has licensed all his work under a CC license.Anybody
+can make use of these lectures in the way they like.There already are so many
+different people interested in Khan academy and the way it is working.Here is
+wishing best of luck to Salman Khan and here are the three cheers for the
+freedom way.The way to move forward.&lt;/p&gt;
+
+&lt;p&gt;Reference URL&amp;rsquo;s
+Khan Academy - &lt;a href=&#34;http://www.khanacademy.org/&#34;&gt;http://www.khanacademy.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
